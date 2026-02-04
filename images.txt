@@ -6,8 +6,9 @@ quincyqiang/mineru:0.3-models
 jxxghp/moviepilot-v2:latest
 xhongc/music_tag_web:latest
 openlistteam/openlist:latest
-koodo-reader/doodo-reader:master
+jeessy/ddns-go
 cloudnas/clouddrive2:latest
 johngong/calibre-web:latest
 mdcnb/mdc:latest
 navidrome:latest
+koodo-reader/koodo-reader:master
