@@ -14,5 +14,13 @@ deluan/navidrome:latest
 narapeka/blurayposter:latest
 narapeka/zidoowatcher:latest
 amilys/embyserver:4.8.11.0
-koodo-reader/koodo-reader:master
 hellohistory/ebookdatabase:0.0.4.3
+buildingai/buildingai:latest
+dlnest/koodoreader:latest
+localai/localai:master-aio-gpu-vulkan
+mintplexlabs/anythingllm:latest
+n8nio/n8n:latest
+ollama/ollama:latest
+qdrant/qdrant:dev
+ukele/trae:latest
+liwangsheng/koodo-reader:latest
