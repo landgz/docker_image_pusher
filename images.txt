@@ -5,7 +5,9 @@ imaliang/cloud-media-sync:latest
 quincyqiang/mineru:0.3-models
 jxxghp/moviepilot-v2:latest
 xhongc/music_tag_web:latest
-navidrome/navidrome:latest
+openlistteam/openlist:latest
 koodo-reader/doodo-reader:master
 cloudnas/clouddrive2:latest
 johngong/calibre-web:latest
+mdcnb/mdc:latest
+navidrome:latest
