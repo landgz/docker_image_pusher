@@ -31,4 +31,3 @@ tailscale/tailscale:latest
 talebook/talebook:latest
 linuxserver/jellyfin:latest
 kyleyu2024/nullbr-bot:latest
-metatube/metatube-server:latest
