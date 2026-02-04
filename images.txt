@@ -11,8 +11,8 @@ cloudnas/clouddrive2:latest
 johngong/calibre-web:latest
 mdcng/mdc:latest
 deluan/navidrome:latest
-hellohistory/ebookdatabase:latest
 narapeka/blurayposter:latest
 narapeka/zidoowatcher:latest
 amilys/embyserver:4.8.11.0
 koodo-reader/koodo-reader:master
+hellohistory/ebookdatabase:0.0.4.3
