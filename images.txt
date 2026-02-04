@@ -1,3 +1,11 @@
 nginx
 #支持私库
 xhofe/alist:latest
+imaliang/cloud-media-sync:latest
+quincyqiang/mineru:0.3-models
+jxxghp/moviepilot-v2:latest
+xhongc/music_tag_web:latest
+navidrome/navidrome:latest
+koodo-reader/doodo-reader:master
+cloudnas/clouddrive2:latest
+johngong/calibre-web:latest
