@@ -9,6 +9,10 @@ openlistteam/openlist:latest
 jeessy/ddns-go
 cloudnas/clouddrive2:latest
 johngong/calibre-web:latest
-mdcnb/mdc:latest
-navidrome:latest
+mdcng/mdc:latest
+deluan/navidrome:latest
+hellohistory/ebookdatabase:latest
+narapeka/blurayposter:latest
+narapeka/zidoowatcher:latest
+amilys/embyserver:4.8.11.0
 koodo-reader/koodo-reader:master
