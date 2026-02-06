@@ -38,3 +38,4 @@ ollama/ollama
 qdrant/qdrant
 n8nio/n8n
 ukele/trae
+ubuntu:resolute-20260106.1
