@@ -31,4 +31,10 @@ tailscale/tailscale:latest
 talebook/talebook:latest
 linuxserver/jellyfin:latest
 kyleyu2024/nullbr-bot:latest
-ai/deepseek-r1-distill-llama:8B-F16
+buildingai/buildingai
+localai/localai
+mintplexlabs/anythingllm
+ollama/ollama
+qdrant/qdrant
+n8nio/n8n
+ukele/trae
