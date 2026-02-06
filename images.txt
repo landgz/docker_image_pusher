@@ -33,3 +33,4 @@ linuxserver/jellyfin:latest
 kyleyu2024/nullbr-bot:latest
 ai/deepseek-r1-distill-llama:8B-Q4_K_M
 ai/deepseek-r1-distill-llama:8B-F16
+hellohistory/ebookdatabase:v0.1.6
