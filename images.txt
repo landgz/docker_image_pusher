@@ -1,5 +1,4 @@
 nginx
-#支持私库
 xhofe/alist:latest
 imaliang/cloud-media-sync:latest
 quincyqiang/mineru:0.3-models
